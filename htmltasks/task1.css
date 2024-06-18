@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  background-color: lightgreen;
+}
+h2 {
+  color: blue;
+}
+.id {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  width: 40%;
+}
+.id1 {
+  font-size: 18px;
+  font-weight: bold;
+  width: 20%;
+}
+.id2 {
+  font-size: 18px;
+  text-align: left;
+}

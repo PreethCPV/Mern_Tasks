@@ -1,0 +1,48 @@
+table,
+th,
+td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+h2 {
+  color: blue;
+}
+.id {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  width: 20%;
+}
+.id1 {
+  font-size: 18px;
+  font-weight: normal;
+  width: 20%;
+}
+.id2 {
+  font-size: 18px;
+  text-align: right;
+  width: 20%;
+}
+.val {
+  width: 60%;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"] {
+  width: 450px;
+}
+hr {
+  border: 1px solid black;
+}
+#rad {
+  font-size: 18px;
+}
+
+button {
+  font-size: 15px;
+  margin-left: 350px;
+}
+h2 {
+  margin-left: 300px;
+}
